@@ -1,0 +1,23 @@
+{
+  "cardOne": {
+    "id": 1,
+    "name": "apple",
+    "price" : "100",
+    "description": "Green apple",
+    "now": 10
+  },
+  "cardTwo": {
+    "id": 2,
+    "name": "orange",
+    "price" : "200",
+    "description": "Orange orange",
+    "now": 7
+  },
+  "cardThree": {
+    "id": 3,
+    "name": "pineapple",
+    "price" : "100",
+    "description": "Blue pineapple",
+    "now": 10
+  }
+}

@@ -8,7 +8,7 @@
 
 <script>
 import Navbar from "@/components/defaultApp/navbar";
-import Footer from '@/components/defaultApp/footer'
+import Footer from "@/components/defaultApp/footer";
 
 export default {
   components: {
