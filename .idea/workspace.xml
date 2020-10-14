@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb2a4a74-3538-457f-a8cb-50ee52c161c8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test-vue/src/components/Shop/test.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-vue/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/test-vue/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-vue/src/components/Shop/cardList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/test-vue/src/components/Shop/cardList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-vue/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/test-vue/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-vue/src/views/Shop.vue" beforeDir="false" afterPath="$PROJECT_DIR$/test-vue/src/views/Shop.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/test-vue" />
+  </component>
+  <component name="ProjectId" id="1iriegjVOGxTBBMxVi1mxeW02kL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb2a4a74-3538-457f-a8cb-50ee52c161c8" name="Default Changelist" comment="" />
+      <created>1602672211724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602672211724</updated>
+      <workItem from="1602672213468" duration="4934000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2331" y="187" width="618" height="522" key="find.popup" timestamp="1602676078569">
+      <screen x="1920" y="0" width="1440" height="900" />
+    </state>
+    <state x="2331" y="187" width="618" height="522" key="find.popup/49.24.1871.1056/1920.0.1440.900@1920.0.1440.900" timestamp="1602676078569" />
+  </component>
+</project>
